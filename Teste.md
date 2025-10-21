@@ -1,8 +1,6 @@
 # Atividade mark
 Aluno: Davi Assunção Gomes
 
-Aluno: Guilherme Boaventura
-
 Professor: Nirton
 
 Data: 14/10/2025
